@@ -14,7 +14,7 @@
 </p>
 
 ```js
-const mySkills = {
+const myInfo = {
   technologies:['php','nodejs','sass','dart','flutter'],
   musicPreferences:['rock','metal','stoner rock','punk']
 }
