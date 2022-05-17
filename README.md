@@ -13,9 +13,9 @@
   </a>&nbsp;&nbsp;
 </p>
 ```php
-<?php 
+ 
   echo $variable
-?>
+
 ```
 ```js
 const myInfo = {
