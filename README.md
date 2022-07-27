@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Hi there 👋 I'm Claudio Álvarez
+  Hi there :wave: I'm Claudio Álvarez
 </h2>
 <p align='center'>
   A webapp developer from Santiago, Chile. I'm currently studying international gastronomy at the AIEP school of gastronomy, hospitality and tourism. I know what  you gonna say, but it's my second passion and i really enjoy it. Below you will find my LinkedIn and IG
