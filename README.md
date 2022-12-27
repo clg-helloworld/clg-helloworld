@@ -2,7 +2,10 @@
   Hi there :wave: I'm Claudio Álvarez
 </h2>
 <p align='center'>
-  I'm software developer from Santiago, Chile. Below you will find my LinkedIn and IG
+  Software Developer, with more than 8 years of experience programming and at the same time in the last 2 years ago as Project Lead. I’ve worked with different web technology environments mainly as a Backend Developer.
+I can evaluate and deploy some technological projects at different levels, from virtual cloud environments (Google Cloud Platform, Azure, Huawei Cloud) until write/reading programming language codes like PHP, JavaScript, NodeJS, Python, and others. Additionally, I’ve experience with classical databases (MySQL and MSSQL – SQL Server).
+My last projects have been deploying and developing with NodeJS, some of them API’s homemade or requested external services. Additionally, I’m learning and practicing React and React Native to provide better and updated solutions at different levels.
+Right now, I’ve B1 Intermediate English level and I’m taking classes with Tronwell’s program. Below you will find my LinkedIn and IG
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/alvarezclaudio/" target="_blank">
