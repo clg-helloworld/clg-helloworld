@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Hi there :wave: I'm Claudio Álvarez
+  Hello there :wave: I'm Claudio Álvarez
 </h2>
 <p align='center'>
   Working on my BIO, until take a look my RRSS. Below you will find my LinkedIn and IG
