@@ -15,7 +15,10 @@
 
 ```js
 const myInfo = {
-  technologies:['php','nodejs','sass','dart','flutter'],
+  technologies:[{
+    languages: ['javascript','nodejs','reactjs','html','css','sass','php','dart','flutter'],
+    clouds: ['azure','gcp','huawei-cloud']
+  }],
   musicPreferences:['rock','metal','stoner rock','punk']
 }
 ```
