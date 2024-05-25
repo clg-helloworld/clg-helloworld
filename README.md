@@ -12,9 +12,9 @@
 
 ```js
 const myInfo = {
-  technologies:[{
-    languages: ['javascript','nodejs','reactjs','html','css','sass','php','dart','flutter'],
-    clouds: ['azure','gcp','huawei-cloud']
+  skills:[{
+    programming: ['js','ts','node','react','next','nest','python','selenium','php','dart','flutter'],
+    clouds: ['azure','gcp','aws']
   }],
   musicPreferences:['rock','metal','stoner rock','punk']
 }
